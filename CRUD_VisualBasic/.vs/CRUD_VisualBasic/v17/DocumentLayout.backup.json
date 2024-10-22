@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marge\\OneDrive\\Escritorio\\UNIVALLE\\Bases_de_Datos_2\\Examen_1\\-CRUD_VisualBasic_MySql\\CRUD_VisualBasic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80890159-0585-48A0-B2AE-ACC66DA344B2}|CRUD_VisualBasic\\CRUD_VisualBasic.vbproj|c:\\users\\marge\\onedrive\\escritorio\\univalle\\bases_de_datos_2\\examen_1\\-crud_visualbasic_mysql\\crud_visualbasic\\crud_visualbasic\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80890159-0585-48A0-B2AE-ACC66DA344B2}|CRUD_VisualBasic\\CRUD_VisualBasic.vbproj|solutionrelative:crud_visualbasic\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80890159-0585-48A0-B2AE-ACC66DA344B2}|CRUD_VisualBasic\\CRUD_VisualBasic.vbproj|c:\\users\\marge\\onedrive\\escritorio\\univalle\\bases_de_datos_2\\examen_1\\-crud_visualbasic_mysql\\crud_visualbasic\\crud_visualbasic\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80890159-0585-48A0-B2AE-ACC66DA344B2}|CRUD_VisualBasic\\CRUD_VisualBasic.vbproj|solutionrelative:crud_visualbasic\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\marge\\OneDrive\\Escritorio\\UNIVALLE\\Bases_de_Datos_2\\Examen_1\\-CRUD_VisualBasic_MySql\\CRUD_VisualBasic\\CRUD_VisualBasic\\Form1.vb",
+              "RelativeDocumentMoniker": "CRUD_VisualBasic\\Form1.vb",
+              "ToolTip": "C:\\Users\\marge\\OneDrive\\Escritorio\\UNIVALLE\\Bases_de_Datos_2\\Examen_1\\-CRUD_VisualBasic_MySql\\CRUD_VisualBasic\\CRUD_VisualBasic\\Form1.vb*",
+              "RelativeToolTip": "CRUD_VisualBasic\\Form1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-22T03:56:41.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\marge\\OneDrive\\Escritorio\\UNIVALLE\\Bases_de_Datos_2\\Examen_1\\-CRUD_VisualBasic_MySql\\CRUD_VisualBasic\\CRUD_VisualBasic\\Form1.vb",
+              "RelativeDocumentMoniker": "CRUD_VisualBasic\\Form1.vb",
+              "ToolTip": "C:\\Users\\marge\\OneDrive\\Escritorio\\UNIVALLE\\Bases_de_Datos_2\\Examen_1\\-CRUD_VisualBasic_MySql\\CRUD_VisualBasic\\CRUD_VisualBasic\\Form1.vb [Dise\u00F1o]*",
+              "RelativeToolTip": "CRUD_VisualBasic\\Form1.vb [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-19T19:54:20.538Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

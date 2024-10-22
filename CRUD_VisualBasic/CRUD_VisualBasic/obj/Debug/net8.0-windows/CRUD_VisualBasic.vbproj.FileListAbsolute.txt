@@ -1,0 +1,17 @@
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\bin\Debug\net8.0-windows\CRUD_VisualBasic.exe
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\bin\Debug\net8.0-windows\CRUD_VisualBasic.deps.json
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\bin\Debug\net8.0-windows\CRUD_VisualBasic.runtimeconfig.json
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\bin\Debug\net8.0-windows\CRUD_VisualBasic.dll
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\bin\Debug\net8.0-windows\CRUD_VisualBasic.pdb
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\obj\Debug\net8.0-windows\CRUD_VisualBasic.vbproj.GenerateResource.cache
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\obj\Debug\net8.0-windows\CRUD_VisualBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\obj\Debug\net8.0-windows\CRUD_VisualBasic.AssemblyInfoInputs.cache
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\obj\Debug\net8.0-windows\CRUD_VisualBasic.AssemblyInfo.vb
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\obj\Debug\net8.0-windows\CRUD_VisualBasic.vbproj.CoreCompileInputs.cache
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\obj\Debug\net8.0-windows\CRUD_VisualBasic.dll
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\obj\Debug\net8.0-windows\refint\CRUD_VisualBasic.dll
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\obj\Debug\net8.0-windows\CRUD_VisualBasic.pdb
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\obj\Debug\net8.0-windows\CRUD_VisualBasic.genruntimeconfig.cache
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\obj\Debug\net8.0-windows\ref\CRUD_VisualBasic.dll
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\obj\Debug\net8.0-windows\CRUD_VisualBasic.Login.resources
+C:\Users\marge\OneDrive\Escritorio\UNIVALLE\Bases_de_Datos_2\Examen_1\-CRUD_VisualBasic_MySql\CRUD_VisualBasic\CRUD_VisualBasic\obj\Debug\net8.0-windows\CRUD_VisualBasic.Resources.resources
